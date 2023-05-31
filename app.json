@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "projet",
+    "name": "Gic_Aept",
     "slug": "projet",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.elton_expo.projet"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7327583c-bbc3-4fbf-8644-f79d05ea9c2d"
+      }
     }
   }
 }
